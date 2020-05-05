@@ -2,7 +2,7 @@
 # INFOTC Final Project
 
 ## **About Me**
-[Read some facts about me!!](aboutme.md)
+[Read some facts about me!!](https://github.com/mksbht/FinalProject/About-Me)
 ## **Education**
 [Here are some facts about my education](education.md)
 
